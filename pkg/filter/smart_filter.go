@@ -1,10 +1,10 @@
 package filter
 
 import (
-	"crawlergo/pkg/config"
-	"crawlergo/pkg/logger"
-	"crawlergo/pkg/model"
-	"crawlergo/pkg/tools"
+	"github.com/kost/crawlergo/pkg/config"
+	"github.com/kost/crawlergo/pkg/logger"
+	"github.com/kost/crawlergo/pkg/model"
+	"github.com/kost/crawlergo/pkg/tools"
 	"go/types"
 	"regexp"
 	"sort"

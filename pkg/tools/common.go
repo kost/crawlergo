@@ -2,7 +2,7 @@ package tools
 
 import (
 	"bufio"
-	"crawlergo/pkg/logger"
+	"github.com/kost/crawlergo/pkg/logger"
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"

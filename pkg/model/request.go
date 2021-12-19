@@ -1,8 +1,8 @@
 package model
 
 import (
-	"crawlergo/pkg/config"
-	"crawlergo/pkg/tools"
+	"github.com/kost/crawlergo/pkg/config"
+	"github.com/kost/crawlergo/pkg/tools"
 	"encoding/json"
 	"errors"
 	"fmt"

@@ -2,7 +2,7 @@ package requests
 
 import (
 	"bytes"
-	"crawlergo/pkg/logger"
+	"github.com/kost/crawlergo/pkg/logger"
 	"crypto/tls"
 	"fmt"
 	"github.com/pkg/errors"

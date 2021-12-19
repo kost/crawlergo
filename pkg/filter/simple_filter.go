@@ -1,8 +1,8 @@
 package filter
 
 import (
-	"crawlergo/pkg/config"
-	"crawlergo/pkg/model"
+	"github.com/kost/crawlergo/pkg/config"
+	"github.com/kost/crawlergo/pkg/model"
 	"github.com/deckarep/golang-set"
 	"strings"
 )

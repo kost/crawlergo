@@ -1,11 +1,11 @@
 package pkg
 
 import (
-	"crawlergo/pkg/config"
-	"crawlergo/pkg/logger"
-	model2 "crawlergo/pkg/model"
-	"crawlergo/pkg/tools"
-	"crawlergo/pkg/tools/requests"
+	"github.com/kost/crawlergo/pkg/config"
+	"github.com/kost/crawlergo/pkg/logger"
+	model2 "github.com/kost/crawlergo/pkg/model"
+	"github.com/kost/crawlergo/pkg/tools"
+	"github.com/kost/crawlergo/pkg/tools/requests"
 	"fmt"
 	"regexp"
 	"strings"

@@ -2,7 +2,7 @@ package engine
 
 import (
 	"context"
-	"crawlergo/pkg/logger"
+	"github.com/kost/crawlergo/pkg/logger"
 	"log"
 	"sync"
 	"time"

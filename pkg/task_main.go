@@ -1,11 +1,11 @@
 package pkg
 
 import (
-	"crawlergo/pkg/config"
-	engine2 "crawlergo/pkg/engine"
-	filter2 "crawlergo/pkg/filter"
-	"crawlergo/pkg/logger"
-	"crawlergo/pkg/model"
+	"github.com/kost/crawlergo/pkg/config"
+	engine2 "github.com/kost/crawlergo/pkg/engine"
+	filter2 "github.com/kost/crawlergo/pkg/filter"
+	"github.com/kost/crawlergo/pkg/logger"
+	"github.com/kost/crawlergo/pkg/model"
 	"encoding/json"
 	"sync"
 	"time"

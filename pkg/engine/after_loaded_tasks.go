@@ -2,10 +2,10 @@ package engine
 
 import (
 	"context"
-	"crawlergo/pkg/config"
-	"crawlergo/pkg/js"
-	"crawlergo/pkg/logger"
-	"crawlergo/pkg/tools"
+	"github.com/kost/crawlergo/pkg/config"
+	"github.com/kost/crawlergo/pkg/js"
+	"github.com/kost/crawlergo/pkg/logger"
+	"github.com/kost/crawlergo/pkg/tools"
 	"fmt"
 	"github.com/chromedp/cdproto/cdp"
 	"github.com/chromedp/chromedp"
